@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.nav-categories-option{
+    @apply w-full h-full relative flex justify-center items-center;
+}
+
+.categories-option{
+    @apply relative grid grid-cols-[30%_70%] m-1 justify-items-center items-center rounded-[0.5rem] pr-5 text-[clamp(0.7rem,calc(2vw+0.2rem),1rem)] text-white font-light;
+}
+
+.categories-img{
+    @apply rounded-full relative w-[auto] h-[2rem] object-contain sm:h-[3.5rem] ml-5; 
+}

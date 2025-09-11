@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "./styles/navbar.css";
+
+:root {
+--bg-dark: hsl(0 0% 90%);
+--bg: hsl(300 0% 95%);
+--bg-light: hsl(300 50% 100%);
+--text: hsl(300 0% 4%);
+--text-muted: hsl(0 0% 28%);
+--highlight: hsl(300 50% 100%);
+--border: hsl(0 0% 50%);
+--border-muted: hsl(340 0% 62%);
+--primary: hsl(357 44% 32%);
+--secondary: hsl(183 100% 9%);
+--danger: hsl(9 21% 41%);
+--warning: hsl(52 23% 34%);
+--success: hsl(147 19% 36%);
+--info: hsl(217 22% 41%);
+}

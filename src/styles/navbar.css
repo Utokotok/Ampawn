@@ -1,0 +1,7 @@
+.nav-btn{
+    @apply flex gap-3 h-[100%] text-lime-700 items-center font-medium relative transition duration-100 ease-in-out hover:translate-y-[-0.2rem] hover:scale-105;
+}
+
+.srch-btn{
+    @apply gap-3 h-[100%] text-lime-700 items-center font-medium relative transition duration-100 ease-in-out hover:translate-y-[-0.2rem] hover:scale-105;
+}
